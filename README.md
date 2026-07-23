@@ -1,12 +1,42 @@
-# Hi, I'm Saeed Ali Alburgawi 👋
+# 👋 Hi, I'm Saeed Ali Alburgawi
 
-**Architect | Urban Designer | Housing Researcher | Open-Source Developer**
+### Building Open-Source Infrastructure for Human-Centered Cities
 
-I am a Ph.D. candidate in Housing at King Saud University and a Lecturer at Umm Al-Qura University. My work combines architecture, urban design, data science, and artificial intelligence to develop open-source tools that support more human-centered, sustainable, and evidence-based cities.
+I am an architect, housing researcher, and open-source developer working at the intersection of architecture, urban planning, GIS, data science, and artificial intelligence.
+
+My mission is to transform academic research into reusable open-source software that supports evidence-based urban planning and improves the way cities are designed, analyzed, and understood.
+
+Currently, I am a Ph.D. candidate in Housing at King Saud University and a Lecturer at Umm Al-Qura University.
 
 ---
 
-## Research Interests
+# 🏙 HumanizeCity
+
+> **An Open-Source Ecosystem for Human-Centered Urban Analytics, Research, and AI-Assisted Planning.**
+
+HumanizeCity is my flagship open-source initiative.
+
+Its goal is to bridge architecture, urban planning, GIS, data science, and artificial intelligence through reusable tools, open datasets, research methodologies, and collaborative software.
+
+Instead of ending with academic publications, HumanizeCity transforms research outputs into practical digital tools that can be shared, improved, and reused by researchers, practitioners, educators, and public agencies.
+
+### Current Development Areas
+
+- 🗺 GIS & Spatial Analytics
+- 🤖 AI-Assisted Urban Planning
+- 🏘 Housing Research
+- 📊 Urban Dashboards
+- 🌍 Open Urban Datasets
+- 📚 Research Methodologies
+- 🔬 Reproducible Research
+
+➡️ **Repository**
+
+https://github.com/saeedburgawi/HumanizeCity
+
+---
+
+# 🔬 Research Interests
 
 - Human-Centered Urban Design
 - Housing Research
@@ -20,41 +50,50 @@ I am a Ph.D. candidate in Housing at King Saud University and a Lecturer at Umm 
 
 ---
 
-## Featured Projects
+# 🚀 Current Focus
 
-### 🏙 HumanizeCity
-
-An open-source platform for urban analytics, architectural research, and AI-assisted planning.
-
-### 📊 Urban Analysis Infographic
-
-Interactive visualization tools for urban and architectural research.
-
----
-
-## Current Focus
-
-- Building HumanizeCity
-- Open-source research software
-- AI for Architecture
+- Expanding the HumanizeCity ecosystem
+- Developing open-source research infrastructure
+- AI for architecture and urban planning
 - Urban data visualization
 - Housing analytics
+- Spatial data science
 
 ---
 
-## Publications
+# 📚 Publications
 
-My research focuses on housing, urban design, and architectural standards.
+My research spans housing, architecture, urban planning, and artificial intelligence.
+
+Selected publications include work published in:
+
+- Open House International
+- Frontiers of Architectural Research
+- Journal of Asian Architecture and Building Engineering
+- Emirates Journal for Engineering Research
+- Journal of Architecture & Planning
+- Saudi Art and Design Journal
+
+📖 Full publication list:
+
+https://scholar.google.com/citations?user=B3XUHe0AAAAJ&hl=en
 
 ---
 
-## Connect
+# 🌐 Connect
 
-- Google Scholar
-- ORCID
-- ResearchGate
-- LinkedIn
+- 🌐 Google Scholar: https://scholar.google.com/citations?user=B3XUHe0AAAAJ&hl=en 
+- 🆔 ORCID: https://orcid.org/0000-0002-4244-2902
+- 📖 ResearchGate: https://www.researchgate.net/profile/Saeed-Alburgawi
+- 💼 LinkedIn: https://www.linkedin.com/in/saeed-albrqawi/
 
 ---
 
-*"Building open-source tools for better cities."*
+# 💡 Philosophy
+
+> Great cities require great research.
+
+> Great research should not end with publication.
+
+> It should become open knowledge, reusable tools, and better cities.
+
